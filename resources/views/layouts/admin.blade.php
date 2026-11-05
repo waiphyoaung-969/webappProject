@@ -6,7 +6,7 @@
     <title>@yield('title', 'Catalog') · Everyday Goods Admin</title>
     <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
-    <link href="{{ asset('css/admin.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/admin.css') }}?v=2" rel="stylesheet">
 </head>
 <body>
 <div class="admin-shell">
@@ -29,3 +29,4 @@
 <script src="{{ asset('js/admin.js') }}" defer></script>
 </body>
 </html>
+
