@@ -1,0 +1,12 @@
+/vendor
+/node_modules
+/.env
+/.env.*.local
+/.phpunit.cache
+/storage/*.key
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*
+/.vercel
+/public/hot
