@@ -98,6 +98,7 @@ tbody tr{transition:background-color .16s ease}tbody tr:hover{background:rgba(21
 .detail-brand,.detail-description{color:#6c8da1}.detail-rating>span:first-child{color:#e2a832}
 .detail-price{color:#164662}.detail-price span{color:#178766;background:#e4f8ef}
 .gallery h2{color:#234f68}.gallery img{background:rgba(255,255,255,.72);border-color:rgba(127,189,215,.35);border-radius:10px}
+.row-actions{white-space:nowrap}.row-actions .more-button,.delete-button{width:auto;height:29px;padding:0 9px;border:1px solid rgba(120,178,205,.28);border-radius:8px;background:rgba(255,255,255,.67);font:600 10px 'DM Sans',sans-serif;color:#287d9e}.row-actions .more-button:hover{background:#e4f6fd}.row-actions .delete-button{margin-left:5px;color:#b45d62;border-color:rgba(215,139,139,.26)}.row-actions .delete-button:hover{background:#fff0ef}.row-actions button:disabled{opacity:.5;cursor:wait}.toast-error{background:rgba(132,44,53,.95);border-color:rgba(255,255,255,.2)}
 :focus-visible{outline:3px solid rgba(44,166,210,.55);outline-offset:3px}
 @media(max-width:720px){
     .sidebar{background:rgba(255,255,255,.78);backdrop-filter:blur(18px)}
